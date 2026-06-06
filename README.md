@@ -159,4 +159,8 @@ This method is easy to understand and useful for approximations, but smaller ste
 
 Each method displays an iteration table showing the step-by-step process. The table helps users understand how the final answer was obtained.
 
+<<<<<<< HEAD
 The graph shows a visual representation of the function or approximation. For root-finding methods, the graph shows the function and root estimate. For Euler's Method, the graph shows the approximate solution curve.
+=======
+The graph shows a visual representation of the function or approximation. For root-finding methods, the graph shows the function and root estimate. For Euler's Method, the graph shows the approximate solution curve.
+>>>>>>> c5e180b78030b469f55a54baab8906fedc6d09b2
